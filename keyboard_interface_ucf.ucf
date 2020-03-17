@@ -1,0 +1,14 @@
+ net "data_in" loc=c3;
+ net "clk"     loc=b1;
+ net "an[0]"   loc=k14;
+ net "an[1]"   loc=m13;
+ net "an[2]"   loc=j12;
+ net "an[3]"   loc=f12;
+ net "ca[0]"   loc=l14;
+ net "ca[1]"   loc=h12;
+ net "ca[2]"   loc=n14;
+ net "ca[3]"   loc=n11;
+ net "ca[4]"   loc=p12;
+ net "ca[5]"   loc=l13;
+ net "ca[6]"   loc=m12;
+ NET "clk" CLOCK_DEDICATED_ROUTE = FALSE;
